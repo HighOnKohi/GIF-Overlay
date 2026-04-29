@@ -21,7 +21,7 @@ The project requires the following core dependencies:
 
 There are also optional dependencies for additional features:
 - `opencv-python`: Required for video file support (MP4, AVI, MOV, etc.).
-- `rembg`: Required for AI-powered background removal (auto-downloads ~170 MB model).
+- `rembg`: Required for AI-powered background removal (auto-downloads ~170 MB model). --https://github.com/danielgatis/rembg
 
 You can install the core dependencies via pip:
 ```bash
